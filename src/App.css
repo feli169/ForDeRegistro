@@ -1,0 +1,9 @@
+*{
+    color: black;
+    /* background-color: rgb(25, 147, 147); */
+    
+}
+body{
+    background: linear-gradient(rgb(113, 219, 32), rgb(12, 123, 170));
+    height: 100vh;
+}
